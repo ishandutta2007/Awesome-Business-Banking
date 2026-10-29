@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Banking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Banking?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Banking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Banking?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Banking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Banking?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Banking/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Business-Banking?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Banking/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Business-Banking?style=flat-square&color=green" alt="License" /></a>
@@ -85,71 +85,71 @@ A curated comparison of category-leading commercial business banking and spend m
 > [!IMPORTANT]
 > **Banking Service vs. Banking Infrastructure Distinction**: True turnkey, FDIC-insured business checking cannot be downloaded from GitHub. Open-source repositories provide the underlying **software engines** (core banking engines, immutable double-entry ledgers, payment protocol parsers, and neobank frontends) used by financial institutions, fintechs, and developers to build compliant banking products.
 
-Repositories below are strictly sorted in **descending order by GitHub Star count**, featuring a real-time star badge linking to each repo's stargazers page:
+Repositories below are strictly sorted in **descending order by GitHub Stars_Count**, featuring a real-time Stars_Badge linking to each repo's stargazers page:
 
 ### 🏆 Top Open-Source Core Banking & Ledgers
 
-- **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)
+- **[Apache Fineract](https://github.com/apache/fineract)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)
   - 🏛️ **Description**: The industry-standard open-source core banking platform under the Apache Software Foundation. Powers financial institutions, microfinance organizations, and digital banks across dozens of countries worldwide.
   - ✨ **Key Features**: Loan portfolio management, deposit and savings accounts, KYC document storage, real-time general ledger accounting, configurable business workflows, and modular REST APIs.
   - 💻 **Tech Stack**: Java, Spring Boot, MySQL/MariaDB, Docker, Kubernetes.
   - 🎯 **Best For**: Microfinance institutions, credit unions, community banks, and fintech engineers building digital financial services on a battle-tested core engine.
 
-- **[OpenBankProject / OBP-API](https://github.com/OpenBankProject/OBP-API)** [![GitHub stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers)
+- **[OpenBankProject / OBP-API](https://github.com/OpenBankProject/OBP-API)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social&color=white)](https://github.com/OpenBankProject/OBP-API/stargazers)
   - 🏛️ **Description**: Leading open-source RESTful API gateway and middleware platform for digital banks, enabling Open Banking compliance, PSD2, XS2A, and Open Finance interoperability.
   - ✨ **Key Features**: Provides standard API connectors for accounts, transactions, customer onboarding, counterparties, payments, entitlements, and metadata management across legacy banking cores.
   - 💻 **Tech Stack**: Scala, Akka HTTP, PostgreSQL, REST APIs.
   - 🎯 **Best For**: Banks and fintechs requiring standardized Open Banking APIs and regulatory interoperability.
 
-- **[Formance Ledger](https://github.com/formancehq/ledger)** [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers)
+- **[Formance Ledger](https://github.com/formancehq/ledger)** [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers)
   - 🏛️ **Description**: Programmable, developer-friendly open-source core ledger engine purpose-built for fintechs and marketplaces handling complex money flows.
   - ✨ **Key Features**: Double-entry bookkeeping using the Numscript domain-specific financial modeling language, multi-asset ledgers, real-time balances, and OpenTelemetry observability.
   - 💻 **Tech Stack**: Go, PostgreSQL, Docker.
   - 🎯 **Best For**: Fintech engineers requiring programmable, multi-currency transaction ledgers for marketplaces, wallets, and disbursement engines.
 
-- **[Blnk Finance](https://github.com/blnkfinance/blnk)** [![GitHub stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=social&color=white)](https://github.com/blnkfinance/blnk/stargazers)
+- **[Blnk Finance](https://github.com/blnkfinance/blnk)** [![GitHub_Stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=social&color=white)](https://github.com/blnkfinance/blnk/stargazers)
   - 🏛️ **Description**: Modern open-source financial ledger and backend core designed to ship fintech and digital banking products with rapid developer velocity.
   - ✨ **Key Features**: High-throughput transaction recording, automated balance snapshots, overdraft monitoring, in-flight transactions, multi-asset accounts, and idempotency guarantees.
   - 💻 **Tech Stack**: Go, PostgreSQL, Redis.
   - 🎯 **Best For**: Startups building modern neo-banks, digital wallets, or payment platforms needing an out-of-the-box double-entry core.
 
-- **[Moov ACH](https://github.com/moov-io/ach)** [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers)
+- **[Moov ACH](https://github.com/moov-io/ach)** [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers)
   - 🏛️ **Description**: Robust, high-performance Go implementation and HTTP API service for reading, writing, validating, and generating NACHA-compliant Automated Clearing House (ACH) files.
   - ✨ **Key Features**: Validates SEC codes (PPD, CCD, WEB, TEL, IAT), generates check verification and automated return files, and runs as an embedded Go library or standalone Docker microservice.
   - 💻 **Tech Stack**: Go, Docker.
   - 🎯 **Best For**: US-based fintechs and banks processing direct deposits, vendor payouts, and electronic fund transfers through FedACH rails.
 
-- **[Moov Paygate](https://github.com/moov-io/paygate)** [![GitHub stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers)
+- **[Moov Paygate](https://github.com/moov-io/paygate)** [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/paygate?style=social&color=white)](https://github.com/moov-io/paygate/stargazers)
   - 🏛️ **Description**: Open-source payments orchestration gateway designed to bridge customer bank accounts and corporate banking gateways without proprietary lock-in.
   - ✨ **Key Features**: Multi-rail payment submission (ACH, FedNow, Wire transfers), account micro-deposit verification, originations, and OFAC sanctions screening.
   - 💻 **Tech Stack**: Go, SQLite/MySQL, Docker.
   - 🎯 **Best For**: Companies and financial institutions automating end-to-end payment rails directly with their partner depository banks.
 
-- **[OpenCBS Cloud](https://github.com/OpenCBS/OpenCBS-Cloud)** [![GitHub stars](https://img.shields.io/github/stars/OpenCBS/OpenCBS-Cloud?style=social&color=white)](https://github.com/OpenCBS/OpenCBS-Cloud/stargazers)
+- **[OpenCBS Cloud](https://github.com/OpenCBS/OpenCBS-Cloud)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenCBS/OpenCBS-Cloud?style=social&color=white)](https://github.com/OpenCBS/OpenCBS-Cloud/stargazers)
   - 🏛️ **Description**: Cloud-native core banking system designed for microfinance institutions, SME lending houses, and community banks.
   - ✨ **Key Features**: Loan portfolio origination, client account tracking, collateral register, savings accounts, and repayment scheduling.
   - 💻 **Tech Stack**: C#, .NET, PostgreSQL, Angular.
   - 🎯 **Best For**: Small and mid-size lending organizations seeking an agile alternative to legacy on-premise core banking software.
 
-- **[Moov Wire](https://github.com/moov-io/wire)** [![GitHub stars](https://img.shields.io/github/stars/moov-io/wire?style=social&color=white)](https://github.com/moov-io/wire/stargazers)
+- **[Moov Wire](https://github.com/moov-io/wire)** [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/wire?style=social&color=white)](https://github.com/moov-io/wire/stargazers)
   - 🏛️ **Description**: Open-source engine for reading, parsing, and validating Fedwire Funds Service formatted transaction messages.
   - ✨ **Key Features**: Compliant with Federal Reserve Bank wire transfer standards, real-time message validation, and JSON-to-Fedwire bidirectional conversion.
   - 💻 **Tech Stack**: Go.
   - 🎯 **Best For**: Institutions and high-volume treasury systems initiating and settling domestic USD wire transfers.
 
-- **[adorsys / ledgers](https://github.com/adorsys/ledgers)** [![GitHub stars](https://img.shields.io/github/stars/adorsys/ledgers?style=social&color=white)](https://github.com/adorsys/ledgers/stargazers)
+- **[adorsys / ledgers](https://github.com/adorsys/ledgers)** [![GitHub_Stars](https://img.shields.io/github/stars/adorsys/ledgers?style=social&color=white)](https://github.com/adorsys/ledgers/stargazers)
   - 🏛️ **Description**: Focused open-source implementation of a deposit account application and ASPSP (Account Servicing Payment Service Provider) core-banking layer.
   - ✨ **Key Features**: Built specifically for PSD2 and XS2A compliance testing, deposit account ledgers, and transaction history verification.
   - 💻 **Tech Stack**: Java, Spring Boot.
   - 🎯 **Best For**: Developers implementing open banking standards and deposit account ledgers in the European Union.
 
-- **[Nivo Money](https://github.com/1mb-dev/nivomoney)** [![GitHub stars](https://img.shields.io/github/stars/1mb-dev/nivomoney?style=social&color=white)](https://github.com/1mb-dev/nivomoney/stargazers)
+- **[Nivo Money](https://github.com/1mb-dev/nivomoney)** [![GitHub_Stars](https://img.shields.io/github/stars/1mb-dev/nivomoney?style=social&color=white)](https://github.com/1mb-dev/nivomoney/stargazers)
   - 🏛️ **Description**: Complete educational reference architecture demonstrating a modern neobank system composed of 9 microservices.
   - ✨ **Key Features**: Double-entry ledger, JWT authentication, RBAC, Prometheus/Grafana observability, 77+ API endpoints, and clean React dashboards.
   - 💻 **Tech Stack**: Go, PostgreSQL, Redis, React, Docker Compose.
   - 🎯 **Best For**: Fintech engineers looking to study real-world microservice architectures for neobanks.
 
-- **[Swipelux Neobank Starter](https://github.com/swipelux/neobank-starter)** [![GitHub stars](https://img.shields.io/github/stars/swipelux/neobank-starter?style=social&color=white)](https://github.com/swipelux/neobank-starter/stargazers)
+- **[Swipelux Neobank Starter](https://github.com/swipelux/neobank-starter)** [![GitHub_Stars](https://img.shields.io/github/stars/swipelux/neobank-starter?style=social&color=white)](https://github.com/swipelux/neobank-starter/stargazers)
   - 🏛️ **Description**: A modular frontend prototype for launching a fully branded business or consumer neobank web application in minutes.
   - ✨ **Key Features**: Interactive client interface, instant balance visualization, transaction timelines, and sandboxed BaaS simulation.
   - 💻 **Tech Stack**: React, Vite, TypeScript.
@@ -159,8 +159,8 @@ Repositories below are strictly sorted in **descending order by GitHub Star coun
 
 ### 🛠️ Supplementary Financial Infrastructure Tools
 
-- ⚡ **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering, usage-based billing, and invoicing infrastructure for B2B SaaS and high-volume fintech billing operations.
-- 💳 **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Enterprise open-source billing and payment orchestration platform supporting recurring revenue, subscription management, and payment gateway routing.
+- ⚡ **[Lago](https://github.com/getlago/lago)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering, usage-based billing, and invoicing infrastructure for B2B SaaS and high-volume fintech billing operations.
+- 💳 **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Enterprise open-source billing and payment orchestration platform supporting recurring revenue, subscription management, and payment gateway routing.
 - 🪙 **[0.finance](https://github.com/0-finance)** — Crypto-native business banking experiment pairing virtual accounts with self-custodied wallet rails and automated receipt categorization.
 
 ---
