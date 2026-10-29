@@ -32,77 +32,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global commercial and SME business banking market represents a massive Total Addressable Market (TAM) generating hundreds of billions of dollars annually in software, payment, and transaction fees across a multi-trillion-dollar deposit and corporate lending ecosystem. The sector exhibits a distinct dual structure: it is highly concentrated at the upper enterprise level dominated by money-center mega-banks, but moderately to highly fragmented across small-and-medium businesses (SMBs) and startups where modern fintech platforms, vertical SaaS providers, and Banking-as-a-Service (BaaS) neo-banks compete rather than a single winner taking all.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Mercury](https://mercury.com/)**
-
-  **Business banking and financial operations platform** for startups and scaling companies. Combines FDIC-insured checking/savings with treasury, corporate cards, invoicing, and bill pay. **Pricing**: No monthly fees for core banking; transaction fees and premium tiers apply. **Free tier**: Yes, with no minimum balance for basic accounts. **Best for**: startups and tech companies wanting a modern, API-friendly business banking experience with integrated financial workflows.
-
-
-
-- **[Relay](https://relay.fi/)**
-
-  **Business banking platform** with multiple checking and savings accounts, debit cards, and financial insights. **Pricing**: No monthly fees for core accounts; premium tiers for advanced features. **Free tier**: Yes. **Best for**: small businesses wanting straightforward business banking with strong account organization and cash-flow visibility.
-
-
-
-- **[Brex](https://www.brex.com/)**
-
-  **Corporate card and spend management platform** with business banking (Brex Cash). **Pricing**: No annual fees for cards; banking and treasury features tiered. **Free tier**: Yes, for basic card and banking. **Best for**: startups and enterprises wanting unified corporate cards, expense management, and business banking with high credit limits.
-
-
-
-- **[Rho](https://www.rho.co/)**
-
-  **Business banking and treasury management** platform with high-yield accounts and spend controls. **Pricing**: No monthly fees; treasury yield and premium features tiered. **Free tier**: Yes, for basic accounts. **Best for**: businesses wanting to maximize yield on operating cash while maintaining banking and payment capabilities.
-
-
-
-- **[Bluevine](https://www.bluevine.com/)**
-
-  **Business banking and lending platform** with checking accounts and lines of credit. **Pricing**: No monthly fees for standard accounts; lending rates vary. **Free tier**: Yes, with no minimum balance. **Best for**: small businesses wanting banking plus accessible credit lines in one platform.
-
-
-
-- **[Novo](https://www.novo.co/)**
-
-  **Small business banking platform** with checking accounts, invoicing, and integrations. **Pricing**: No monthly fees for basic accounts; premium tiers available. **Free tier**: Yes. **Best for**: freelancers and small businesses wanting simple, fee-free business banking with accounting integrations.
-
-
-
-- **[Lili](https://lili.co/)**
-
-  **Business banking and financial management** for freelancers and small businesses. **Pricing**: No monthly fees for basic accounts; premium tiers available. **Free tier**: Yes. **Best for**: solopreneurs and freelancers wanting banking with built-in expense tracking and tax tools.
-
-
-
-- **[Grasshopper Bank](https://www.grasshopper.bank/)**
-
-  **Digital business bank** with checking, savings, and lending products. **Pricing**: Tiered account plans; quote-based for lending. **Free tier**: Limited free tier available. **Best for**: small businesses and startups wanting a digital-first bank with a traditional banking charter.
-
-
-
-- **[Axos Bank](https://www.axosbank.com/)**
-
-  **Digital bank with business banking** products including checking, savings, and lending. **Pricing**: Tiered accounts; some with monthly fees. **Free tier**: Limited free tier available. **Best for**: businesses wanting a full-service digital bank with traditional banking products.
-
-
-
-- **[Shopify Balance](https://www.shopify.com/balance)**
-
-  **Business banking integrated with Shopify** for merchants. **Pricing**: No monthly fees; transaction-based costs. **Free tier**: Yes, for Shopify merchants. **Best for**: Shopify merchants wanting banking, card, and payouts integrated with their commerce operations.
+| Platform | Company Scale (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description | Best For |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Balance](https://www.shopify.com/balance)** | ~$210B Market Cap / $11.56B Revenue (FY2025) | $0/mo (Requires active Shopify store plan starting at $39/mo or $29/mo billed annually) | Free forever with Shopify store plan; includes up to 5 sub-accounts and default $5,000/day card spending limit | Business banking and financial management account natively integrated directly into the Shopify merchant admin. | Shopify merchants wanting banking, card, and payouts integrated with their commerce operations. |
+| **[Brex](https://www.brex.com/)** | ~$5.2B Valuation / ~$700M Annualized Run-rate (2025) | $0/mo (Essentials plan; paid tiers start at $12/user/mo for Premium) | Free forever for Essentials plan; capped at up to 2 legal entities (max 1 global entity), 1 local card program, and standard accounting integrations | Unified corporate card, spend management, and cash management platform with built-in banking features. | Startups and enterprises wanting unified corporate cards, expense management, and business banking with high credit limits. |
+| **[Mercury](https://mercury.com/)** | ~$5.2B Valuation / ~$720M Revenue (2025) | $0/mo (Standard Core Banking; optional Mercury Plus starts at $35/mo or $29.90/mo billed annually) | Free forever for core banking; $0 minimum balance, unlimited users, free ACH/standard domestic & international USD wires, up to 5 monthly reimbursed expense users | Business banking and financial operations platform combining FDIC-insured checking/savings with treasury, cards, invoicing, and bill pay. | Startups and tech companies wanting a modern, API-friendly business banking experience with integrated financial workflows. |
+| **[Axos Bank](https://www.axosbank.com/)** | ~$5.2B Market Cap (NYSE: AX) / ~$1.20B Revenue (FY2025) | $0/mo (Basic Business Checking; Business Interest Checking is $10/mo or $0 with $5,000 avg balance) | Free forever on Basic Business Checking; $0 monthly maintenance fee, no minimum opening balance, unlimited digital transactions, and free incoming domestic/international wires | Full-service, chartered digital bank offering FDIC-insured business checking, high-yield savings, and commercial lending products. | Businesses wanting a full-service digital bank with traditional banking products and lending capabilities. |
+| **[Novo](https://www.novo.co/)** | ~$720M Valuation / ~$298M Total Funding | $0/mo (Standard Business Checking; no monthly maintenance fee) | Free forever; $0 minimum ongoing balance ($50 initial opening deposit required), unlimited fee-free standard ACH transactions, up to 20 sub-account Reserves, and up to $7/mo in ATM fee refunds | Small business digital banking platform with checking accounts, invoicing tools, and popular accounting integrations. | Freelancers, solopreneurs, and small businesses wanting simple, fee-free business banking with accounting integrations. |
+| **[Rho](https://www.rho.co/)** | ~$450M Valuation / ~$235M Total Funding | $0/mo (Core Platform; custom quote for enterprise multi-entity configurations) | Free forever for standard platform; $0 monthly fee, $0 per user (unlimited seats), $0 domestic wires & same-day ACH, and free AP automation software (AUM fee applies only for treasury balances >$50k) | High-growth corporate banking, treasury management, and accounts payable platform with high-yield operating accounts and spend controls. | Businesses wanting to maximize yield on operating cash while maintaining automated AP workflows and payment capabilities. |
+| **[Grasshopper Bank](https://www.grasshopper.bank/)** | ~$369M Acquisition Valuation / $60.6M Revenue (2025) | $0/mo (Innovator Business Checking & Accelerator Checking; no monthly maintenance fee) | Free forever; $100 minimum opening deposit, no ongoing minimum balance, unlimited fee-free ACH transactions, fee-free access at MoneyPass/SUM ATMs, and mobile check deposit limits up to $25k/day | Digital-first commercial bank operating under a national banking charter, tailored for startups, small businesses, and venture funds. | Small businesses and startups wanting a digital-first bank with a traditional banking charter and API integrations. |
+| **[Bluevine](https://www.bluevine.com/)** | ~$340M Acquisition Valuation / >$2B Deposits | $0/mo (Standard Checking; Plus plan is $30/mo and Premier is $95/mo, both waivable) | Free forever on Standard Checking; $0 minimum balance, unlimited standard transactions, up to 5 sub-accounts, 1 lifetime free checkbook, and 1.3% APY (with activity requirements) | Business banking and lending platform pairing business checking accounts with revolving lines of credit and AP features. | Small businesses wanting digital banking plus accessible business credit lines in a single dashboard. |
+| **[Relay](https://relay.fi/)** | ~$200M Valuation / >$1.3B Deposits | $0/mo (Starter Plan; paid Grow plan is $30/mo and Scale plan is $90/mo) | Free forever on Starter Plan; $0 monthly fee, no minimum balance, up to 20 checking accounts (10 for sole props), 2 savings accounts, free standard ACH, and 1% cash back card | Business banking and cash management platform built for cash-flow visibility with sub-accounts, bill pay, and multi-user permissions. | Small businesses wanting straightforward business banking with strong account organization and cash-flow visibility. |
+| **[Lili](https://lili.co/)** | ~$150M Valuation / ~$80M Total Funding | $0/mo (Lili Core; paid tiers start at Lili Pro for $15/mo, Lili Smart for $35/mo, and Lili Premium for $55/mo) | Free forever on Lili Core; $0 monthly maintenance fee, no minimum deposit, Visa debit card, fee-free MoneyPass ATM access, and basic savings account (tax automation and invoicing locked to paid tiers) | Business banking and financial management app designed specifically for solopreneurs, freelancers, and micro-businesses. | Solopreneurs and freelancers wanting basic banking with the option to upgrade for built-in expense categorization and tax tools. |
 
 
 
